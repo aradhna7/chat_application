@@ -1,3 +1,11 @@
+chat application using chat engine, reactjs
+
+you can try out with example credentials
+{username: lizzi, password: 12345}
+{username: misha, password: 12345}
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
